@@ -1,0 +1,22 @@
+{
+  "name": "pod-template",
+  "version": "0.1.0",
+  "summary": "A short description of pod-template.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fuer4869/pod-template",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fuer4869": "fuer4869@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fuer4869/pod-template.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "pod-template/Classes/**/*"
+}

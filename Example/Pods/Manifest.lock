@@ -1,0 +1,16 @@
+PODS:
+  - pod-template (0.1.0)
+
+DEPENDENCIES:
+  - pod-template (from `../pod-template.podspec`)
+
+EXTERNAL SOURCES:
+  pod-template:
+    :path: "../pod-template.podspec"
+
+SPEC CHECKSUMS:
+  pod-template: 7add30f46d131c3c56ff4e2a0676fd5b2a36f171
+
+PODFILE CHECKSUM: e6cd629544e683d4323bce2c8829c3877ab298fb
+
+COCOAPODS: 1.10.1
