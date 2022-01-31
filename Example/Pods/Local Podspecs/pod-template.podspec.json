@@ -1,8 +1,8 @@
 {
   "name": "pod-template",
   "version": "0.1.0",
-  "summary": "A short description of pod-template.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "this is a test pod-template for ios.",
+  "description": "this is a test pod-template for ios, no content, no image, no video, no anything.",
   "homepage": "https://github.com/fuer4869/pod-template",
   "license": {
     "type": "MIT",
@@ -18,5 +18,5 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "pod-template/Classes/**/*"
+  "source_files": "Example/pod-template/**/*.{swift}"
 }

@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../pod-template.podspec"
 
 SPEC CHECKSUMS:
-  pod-template: 7add30f46d131c3c56ff4e2a0676fd5b2a36f171
+  pod-template: 233220d0a5c17b151b75722360b5c7c718491e3e
 
 PODFILE CHECKSUM: e6cd629544e683d4323bce2c8829c3877ab298fb
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.2
